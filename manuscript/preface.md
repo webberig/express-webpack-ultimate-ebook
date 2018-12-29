@@ -49,5 +49,3 @@ Find me on
  - Twitter: https://twitter.com/webberig
  - LinkedIn: https://www.linkedin.com/in/webberig
  - GitHub: https://github.com/webberig
-
-[Continue to chapter 1 - Scaffold a new Express project](/1-scaffold-a-new-express-project)
