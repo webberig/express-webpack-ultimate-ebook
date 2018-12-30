@@ -1,3 +1,9 @@
 preface.md
 1-scaffold-a-new-express-project.md
 2-setup-webpack-build-with-babel.md
+3-build-scss-using-webpack.md
+4-setting-up-webpack-dev-server.md
+5-reload-server-upon-changes.md
+6-refresh-browser-upon-server-reload.md
+7-extract-css-from-webpack-and-manage-assets.md
+closing.md
